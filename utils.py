@@ -7,7 +7,7 @@ import re
 
 #ensures colored prints using "colorama" package will reset automatically afterwards
 init(autoreset=True)
-
+print("master")
 """
 classes
 """
